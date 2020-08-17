@@ -12,5 +12,5 @@ yolov3模型文件需要另外下载：
 提取码：g0xp  
 模型文件路径修改在jj_obj_detect.h文件中 cfgfile weightfile namesfile 三个变量初始值
 
-author: ganyongdong ***<qq 1141951289>***
+author: ganyongdong ***<1141951289@qq.com>***
 2020.8.17
