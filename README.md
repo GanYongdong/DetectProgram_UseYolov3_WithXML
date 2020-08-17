@@ -2,6 +2,8 @@
 
 > c++ darknet yolo
 
+依赖：opencv3以上，darknet
+
 - 可以跑未知图片，用labelImg等调整回归框成为数据集
 - 查看模型效果
 
